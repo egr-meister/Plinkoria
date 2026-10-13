@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- "Neon Peg Cascade" palette -->
+    <color name="night_void">#120429</color>
+    <color name="deep_violet">#1E0A45</color>
+    <color name="royal_purple">#4A16A8</color>
+    <color name="neon_magenta">#FF2FA8</color>
+    <color name="plasma_cyan">#35E3FF</color>
+    <color name="peg_gold">#FFC93D</color>
+    <color name="soft_white">#FFFFFF</color>
+    <color name="ic_launcher_bg">#1E0A45</color>
+</resources>

@@ -1,0 +1,21 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.ap_
+*.dex
+# Signing material — never commit
+*.jks
+*.keystore
+*.p12
+*.pfx
+keystore.properties
+keystore.b64

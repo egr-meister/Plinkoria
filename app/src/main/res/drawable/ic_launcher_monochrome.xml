@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Themed-icon (Android 13+) monochrome layer: orb + peg row inside the 66dp safe zone. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:fillColor="#FFFFFFFF" android:pathData="M54,30a16,16 0,1 1,-0.1 0z" />
+    <path android:fillColor="#FFFFFFFF" android:pathData="M36,70a4,4 0,1 1,-0.1 0z" />
+    <path android:fillColor="#FFFFFFFF" android:pathData="M48,78a4,4 0,1 1,-0.1 0z" />
+    <path android:fillColor="#FFFFFFFF" android:pathData="M60,78a4,4 0,1 1,-0.1 0z" />
+    <path android:fillColor="#FFFFFFFF" android:pathData="M72,70a4,4 0,1 1,-0.1 0z" />
+</vector>

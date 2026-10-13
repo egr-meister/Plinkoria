@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Lightweight themed splash mark: a gold-rimmed magenta "peg orb" with a cyan halo.
+     Drawn as a vector (no heavy bitmap). Fits the 240dp splash canvas safe zone. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="240dp"
+    android:viewportWidth="240"
+    android:viewportHeight="240">
+    <path android:fillColor="#00000000" android:strokeColor="#5535E3FF" android:strokeWidth="6"
+        android:pathData="M120,48a72,72 0,1 1,-0.1 0z" />
+    <path android:fillColor="#FFC93D"
+        android:pathData="M120,66a54,54 0,1 1,-0.1 0z" />
+    <path android:fillColor="#4A16A8"
+        android:pathData="M120,74a46,46 0,1 1,-0.1 0z" />
+    <path android:fillColor="#FF2FA8"
+        android:pathData="M120,86a34,34 0,1 1,-0.1 0z" />
+    <path android:fillColor="#AAFFFFFF"
+        android:pathData="M106,96a10,7 0,1 1,-0.1 0z" />
+    <path android:fillColor="#FFC93D" android:pathData="M60,184a6,6 0,1 1,-0.1 0z" />
+    <path android:fillColor="#35E3FF" android:pathData="M90,196a6,6 0,1 1,-0.1 0z" />
+    <path android:fillColor="#FFC93D" android:pathData="M120,184a6,6 0,1 1,-0.1 0z" />
+    <path android:fillColor="#35E3FF" android:pathData="M150,196a6,6 0,1 1,-0.1 0z" />
+    <path android:fillColor="#FFC93D" android:pathData="M180,184a6,6 0,1 1,-0.1 0z" />
+</vector>
